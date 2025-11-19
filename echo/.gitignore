@@ -1,0 +1,6 @@
+*.o
+*.exe
+echo_client
+echo_server
+*.log
+build/
